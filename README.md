@@ -14,6 +14,6 @@ Turn on "Developer mode".
 Click "Load unpacked" button and select the extracted folder.
 
 ## Step 5:
-Thats it! SnapStash extension is now accessible in chrome by clicking Extensions button.
+Thats it! SnapStash extension is now available in chrome by clicking Extensions button.
 
 
