@@ -5,7 +5,7 @@ Download and extract Snapstash extension zip by clicking the link below:
 https://github.com/RimeshGithub/SnapStash/archive/refs/heads/main.zip
 
 ## Step 2:
-Search "chrome://extensions/" in chrome browser.
+Search chrome://extensions/ in chrome browser.
 
 ## Step 3:
 Turn on "Developer mode".
